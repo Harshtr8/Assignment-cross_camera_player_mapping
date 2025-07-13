@@ -1,0 +1,6 @@
+model_path: data/yolov8_model.pt
+broadcast_video: data/broadcast.mp4
+tacticam_video: data/tacticam.mp4
+output_dir: outputs
+frame_limit: 500
+conf_threshold: 0.3
