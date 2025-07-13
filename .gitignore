@@ -6,6 +6,5 @@ __pycache__/
 *.mp4
 *.pth
 data/
-outputs/*.mp4
 .cache/
 .DS_Store
